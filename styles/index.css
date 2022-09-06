@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(46, 72, 55);
+  margin: 5px;
+  padding: 0;
+  color: rgb(242, 227, 208);
+}
+
+hr {
+  color: rgb(0, 0, 0);
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+
+a {
+  color: rgb(242, 227, 208);
+  text-decoration: underline;
+  transition: 1s;
+}
+
+a:hover {
+  color: rgb(255, 206, 214);
+  letter-spacing: 1px;
+}
